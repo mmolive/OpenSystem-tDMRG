@@ -1,5 +1,23 @@
 # OpenSystem-tDMRG
-Code for paper "Efficient quantum information probes of non-equilibrium quantum criticality"
+In this repository we share the program used to generate the data for the paper entitled "Efficient quantum information probes of non-equilibrium quantum criticality". The paper can be found at  and preprint version at .
+
+This program uses Matrix Product State techniques to otbain the steady-states of Markovian open quantum systems. The MPS implementation is based on teh ITensor library.
+
+
+# Installing Package
+
+
+# Bechmark
+
+## Running code for chain
+
+
+## Running code for ladder
+
+
+
+
+
 
 run code for chain
 ./XXZ_sim 6 64 0.25 0.1 10000 0.05 50 0 16 0.25 0.1
