@@ -1,5 +1,5 @@
 This code requires linking to the ITensor (https://www.itensor.org/) and Eigen (https://eigen.tuxfamily.org/) libraries. 
-It also specifically uses a Makefile from the ITensor library.
+It also specifically uses a Makefile from the ITensor library. The script.sh also downloads a copy of the Eigen library.
 
 
 ITensor is licensed under the Apache License 2.0, a statement of which is provided bellow
