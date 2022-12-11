@@ -8,7 +8,7 @@ This program uses Matrix Product State techniques to obtain the steady-states of
 
 - Clone this repository
 - Install the ITensor directory and change point 2 of the Makefile to link to its location
-- Run on the terminal `python setup.py`. This will download the Eigen library and create the directories used by this package.
+- Run on the terminal `./setup.sh`. This will download the Eigen library and create the directories used by this package.
 
 
 # Bechmark
