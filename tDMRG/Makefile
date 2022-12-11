@@ -27,7 +27,9 @@ LIBRARY_DIR=$(HOME)/itensor
 #    Running 'make debug' will make a program called 'myappname-g'
 #    which includes debugging symbols and can be used in gdb (Gnu debugger);
 APP=XXZ_sim
+#APP=XXZ_data
 #APP=FermionLadder_sim
+#APP=FermionLadder_data
 
 # 4. Add any headers your program depends on here. The make program
 #    will auto-detect if these headers have changed and recompile your app.
